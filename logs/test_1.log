@@ -1,0 +1,11 @@
+2023-02-01 10:00:00 Log entry with timestamp 10:00:00
+This line contains an IPv4 address 192.168.1.1
+This line contains an IPv6 address fe80::1ff:fe23:4567:890c
+This is another regular log line
+2023-02-01 11:00:00 Log entry with timestamp 11:00:00
+This line contains another IPv4 address 10.0.1.1
+This line contains another IPv6 address 2001:0db8:85a3:0000:0000:8a2e:0370:7335
+This is another regular log line
+2023-02-01 12:00:00 Log entry with timestamp 12:00:00
+This line contains an IPv4 address 172.16.1.1
+This line contains an IPv6 address fe80::1ff:fe23:4567:890d

@@ -1,0 +1,16 @@
+# Log Parsing Utility
+
+This is a command-line utility for parsing log files. It supports various options to filter and display specific lines from the logs based on different criteria.
+
+## Usage
+
+./util.py [OPTION]... [FILE]
+
+python util.py --help
+python util.py --first 5 logs/test_1.log
+python util.py -l 5 logs/test_1.log
+python util.py --timestamps logs/test_1.log
+python util.py --ipv4 logs/test_1.log
+python util.py --ipv6 logs/test_1.log
+python util.py --ipv4 --last 3 logs/test_1.log
+pytest -s tests/test_util.py
